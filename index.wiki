@@ -1,3 +1,7 @@
 == Vimwiki ==
 
 * First things first
+
+== Formal Logic ==
+
+* [[Modal Logic]]
