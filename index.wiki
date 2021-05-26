@@ -1,6 +1,7 @@
 == Vimwiki ==
 
 * First things first
+* [[diary/2021-05-26|Diary]]
 
 == Formal Logic ==
 
