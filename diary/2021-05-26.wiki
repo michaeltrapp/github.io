@@ -1,3 +1,4 @@
-== Diary Note 2021-05-26 ==
+== 2021-05-26 ==
 
-This is a test entry.
+* VimWiki is working!
+* Studying Logic
