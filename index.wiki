@@ -1,8 +1,7 @@
-== Vimwiki ==
+= Contents =
+    - [[#Vimwiki|Vimwiki]]
+    - [[#Formal Logic|Formal Logic]]
 
-* First things first
-* [[diary/2021-05-26|Diary]]
+== Diary ==
 
-== Formal Logic ==
-
-* [[Modal Logic]]
+* [[diary/2021-05-26|2021-05-26]]
